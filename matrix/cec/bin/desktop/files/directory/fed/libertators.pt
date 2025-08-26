@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Libertadores</title>
+</head>
+<body>
+    <h1>Bem-vindo à Libertadores</h1>
+    <p>Este é um exemplo de página em português.</p>
+    <footer>
+        <p>&copy; 2025 Libertadores. Todos os direitos reservados.</p>
+    </footer>
+    <chapter>
+        <h2>Capítulo 1</h2>
+        <p>Conteúdo do capítulo 1.</p>
+    </chapter>
+    <chapter>
+        <h2>Capítulo 2</h2>
+        <p>Conteúdo do capítulo 2.</p>
+    </chapter>
+    <chapter>
+        <h2>Capítulo 3</h2>
+        <p>Conteúdo do capítulo 3.</p>
+    </chapter>
+    <ul>
+        <li>COP 2025</li>
+        <li>COP 2026</li>
+        <li>COP 2027</li>
+    </ul>
+</body>
+</html>

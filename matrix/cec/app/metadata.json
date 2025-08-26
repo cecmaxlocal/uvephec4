@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Raku CNN Idea Generator",
+  "description": "An interactive tool to help users design and generate starter code for Convolutional Neural Networks (CNNs) in the Raku programming language, featuring AI-powered architecture suggestions.",
+  "requestFramePermissions": []
+}
