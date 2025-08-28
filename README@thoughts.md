@@ -1,4 +1,8 @@
+
 That's a unique combination! Here's an idea for a CNN project combining those elements:
+
+![IDEPHEC4](./matrix/cec/image/logon.jpg)
+
 
 **Project Name:** `BorboletaVision` (Portuguese for "Butterfly Vision")
 

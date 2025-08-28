@@ -4,7 +4,7 @@ This repository contains the `uvephec4` project, a desktop application implement
 
 ________
 
-![IDEPHEC4](./matrix/cec/image/logon.jpg)
+![IDEPHEC4](./matrix/cec/image/folder.jpeg)
 
 ## Table of Contents
 
@@ -35,4 +35,3 @@ ________
 
 Here's an example of a typical CNN architecture you might find in this project: 
 
-![IDEPHEC4](./matrix/cec/image/folder.jpeg)
